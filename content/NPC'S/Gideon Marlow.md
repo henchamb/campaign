@@ -1,6 +1,7 @@
 ---
 tags: [npc, player-facing]
 status: alive
+draft: true
 visible: false
 last-seen: "Not yet met — Zundbridge"
 ---
