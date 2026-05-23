@@ -17,3 +17,6 @@ Browse people the party has encountered — [[NPC'S/index|NPC Directory]]
 
 ## Gambling Games
 [[Gambling Games]]
+
+## World Reference
+[[Sword Coast Codex]]
