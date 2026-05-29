@@ -1,6 +1,7 @@
 ---
 cssclasses:
   - session-recap
+  - cartographer
 tags: [session, recap]
 session: 4
 date-irl: 2026-02-28
@@ -14,20 +15,23 @@ next: "[[Session 5]]"
 # Session 4
 
 > [!nav]
-> [[Dashboard]] · Prev: [[Session 3]] · Next: [[Session 5]]
+> Prev: [[Session 3]] · Next: [[Session 5]]
+
+> [!info] At a Glance
+> **Location:** Sharran temple, Ardeep Forest · **Level:** 1
 
 ## Chaos in the Temple
 
 The session opens in a moment of chaos. Jockamo holds a terrified goblin by the neck, Esme is torn apart by the recently deceased worgs and lying unconscious, and a familiar elf has reappeared. The party briefly interrogates the goblin creature, who is then hogtied and ballgagged. Vaama, always vigilant, steps into the dark stone hallway to listen for any activity, and she hears the sounds of wooden objects being dragged across the stone floor in the distance. The party correctly deduces that the goblins are building a barrier. Their goblin captive reveals that they are most likely holed up in the "dining hall" further into the temple.
 
-Meanwhile, Dawn Mistwalker, who was with Marok when he charged into the temple to join the party in combat, decides to follow her curiosity and creeps down the steps into the temple. She is deeply unsettled as she approaches the twin statues of a figure she recognizes–the evil and powerful goddess Shar. She finds the party mid-discussion, and shares what information she knows about the goddess, as well as issues a word of warning: There might be more danger here than a goblin tribe. Despite the party's persuasion attempts, she still will not slay any creature for the Lord's Alliance. Sensing greater danger, she does, however, gift the party a Potion of Healing (2d4+2) as she wishes them luck. Jockamo executes the hogtied goblin.
+Meanwhile, [[Dawn Mistwalker]], who was with Marok when he charged into the temple to join the party in combat, decides to follow her curiosity and creeps down the steps into the temple. She is deeply unsettled as she approaches the twin statues of a figure she recognizes–the evil and powerful goddess [[Shar]]. She finds the party mid-discussion, and shares what information she knows about the goddess, as well as issues a word of warning: There might be more danger here than a goblin tribe. Despite the party's persuasion attempts, she still will not slay any creature for the [[Lord's Alliance]]. Sensing greater danger, she does, however, gift the party a Potion of Healing (2d4+2) as she wishes them luck. Jockamo executes the hogtied goblin.
 
-> [!secret]+ Out-of-Session Note
+> [!note] Out-of-Session Note
 > There was a character discussion with Marok about the contract/pay that I was not present for, but I think the decision was to give Pip's share to Marok?
 
 ## Pip's Journey
 
-Pip begins her day around 4am, standing on the Trade Way. She wants to find her new friends, and she knows they were sent to kill goblins deep in the Ardeep Forest. Scanning for any potentially helpful individuals, she notices a hunter making his way into the trees. She hails the hunter, who turns out to be a pleasant but gruff older man, and learns that this man knows Dawn pretty well–himself being a veteran explorer of the woods. In fact, Dawn has shown him the game trail that the goblins use to get in and out of town. He agrees to forgo his morning hunt and act as Pip's guide for 5 silver. They begin their journey toward the temple.
+Pip begins her day around 4am, standing on the [[Trade Way]]. She wants to find her new friends, and she knows they were sent to kill goblins deep in the [[Ardeep Forest]]. Scanning for any potentially helpful individuals, she notices a hunter making his way into the trees. She hails the hunter, who turns out to be a pleasant but gruff older man, and learns that this man knows Dawn pretty well–himself being a veteran explorer of the woods. In fact, Dawn has shown him the game trail that the goblins use to get in and out of town. He agrees to forgo his morning hunt and act as Pip's guide for 5 silver. They begin their journey toward the temple.
 
 ## The Altar of Shar
 
@@ -37,7 +41,7 @@ The next hallway reveals the source of the scraping noises. The goblins have ere
 
 ## Ralli and the Lady
 
-The party is victorious against the goblins in the dining hall, but uneased that one of their foes had tried to run further into the temple for help. Clutching yet another goblin hostage, the party tries to get more information. Before their interrogation can begin, however, they are interrupted by a small voice coming from the kitchen. Poking her head out of the door is a gnome who introduces herself as Ralli. She had been taken hostage by the goblins days ago, and made to work in the kitchen. She has absolutely no love for the goblins and savagely murders your hostage with an iron cooking pot. Before the murder takes place, the party learns about the final occupants of this temple. Two hobgoblins and "the lady," whom the goblins greatly fear and pay tribute to. The goblins are terrified of Shar and believe the Lady to be her vessel or some type of important servant. Ralli can confirm  the existence of the hobgoblins and the Lady, though she has never seen her. After a frantic search for her "horn," she pulls a unique looking instrument from a garbage pile. An instrument of brass adorned with various buttons and valves. The party (the characters themselves) have never seen anything remotely like this instrument.
+The party is victorious against the goblins in the dining hall, but uneased that one of their foes had tried to run further into the temple for help. Clutching yet another goblin hostage, the party tries to get more information. Before their interrogation can begin, however, they are interrupted by a small voice coming from the kitchen. Poking her head out of the door is a gnome who introduces herself as [[Ralli Batterton|Ralli]]. She had been taken hostage by the goblins days ago, and made to work in the kitchen. She has absolutely no love for the goblins and savagely murders your hostage with an iron cooking pot. Before the murder takes place, the party learns about the final occupants of this temple. Two hobgoblins and "the lady," whom the goblins greatly fear and pay tribute to. The goblins are terrified of Shar and believe the Lady to be her vessel or some type of important servant. Ralli can confirm  the existence of the hobgoblins and the Lady, though she has never seen her. After a frantic search for her "horn," she pulls a unique looking instrument from a garbage pile. An instrument of brass adorned with various buttons and valves. The party (the characters themselves) have never seen anything remotely like this instrument.
 
 At about this time, Pip and her hired guide arrive at the entrance to the Sharran temple. Pip enters the temple and begins to retrace the steps of the party. Finding herself in the storage room, she finds something the party missed–an obsidian disk with the symbol of Shar engraved on it. Hugging this large piece of stone, she casually makes her way to the barricade. Hearing the familiar voices of the party on the other side, she eavesdrops a bit before clambering over the barrier to join the group. She's clutching the key to the force field maybe! The party inserts the disk into the slot and the barrier goes down. They bust open the donation box and find some gold.
 
@@ -62,4 +66,4 @@ Satisfied and exhausted, the party drags the limp Jockamo out of the temple and 
 ---
 
 > [!nav]
-> [[Dashboard]] · Prev: [[Session 3]] · Next: [[Session 5]]
+> Prev: [[Session 3]] · Next: [[Session 5]]

@@ -1,4 +1,6 @@
 ---
+aliases:
+  - "Lady Velrosa Nandar"
 tags: [npc, player-facing]
 status: alive
 visible: false

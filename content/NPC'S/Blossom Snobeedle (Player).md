@@ -1,4 +1,6 @@
 ---
+aliases:
+  - "Blossom Snobeedle"
 tags: [npc, player-facing]
 status: alive
 draft: true

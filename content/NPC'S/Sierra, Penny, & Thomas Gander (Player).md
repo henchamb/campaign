@@ -1,4 +1,6 @@
 ---
+aliases:
+  - "Sierra, Penny, & Thomas Gander"
 tags: [npc, player-facing]
 status: alive
 last-seen: "Nightstone — Session 7. Joining WSC caravan, Session 10."

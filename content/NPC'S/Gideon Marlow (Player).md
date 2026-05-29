@@ -1,4 +1,6 @@
 ---
+aliases:
+  - "Gideon Marlow"
 tags: [npc, player-facing]
 status: alive
 draft: true

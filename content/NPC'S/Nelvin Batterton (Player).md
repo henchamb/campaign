@@ -1,4 +1,6 @@
 ---
+aliases:
+  - "Nelvin Batterton"
 tags: [npc, player-facing]
 status: alive
 last-seen: "WSC caravan, Trade Way toward Waterdeep"

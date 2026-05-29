@@ -1,4 +1,6 @@
 ---
+aliases:
+  - "Regan Thomas"
 tags: [npc, player-facing]
 status: deceased
 last-seen: "Nightstone garrison, Session 8"

@@ -1,4 +1,6 @@
 ---
+aliases:
+  - "Godson Goodrich"
 tags: [npc, player-facing]
 status: alive
 last-seen: "Nightstone — Lord's Alliance operation at the castle"

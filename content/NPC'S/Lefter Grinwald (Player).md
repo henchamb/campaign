@@ -1,4 +1,6 @@
 ---
+aliases:
+  - "Lefter Grinwald"
 tags: [npc, player-facing]
 status: alive
 visible: false

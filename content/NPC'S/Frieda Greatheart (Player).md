@@ -1,4 +1,6 @@
 ---
+aliases:
+  - "Frieda Greatheart"
 tags: [npc, player-facing]
 status: deceased
 last-seen: "Temple of the Nightbringers, Ardeep Forest — Session 4"

@@ -1,4 +1,6 @@
 ---
+aliases:
+  - "Archmage Daneel"
 tags: [npc, player-facing]
 status: unknown
 last-seen: "Nightstone main square — Session 7"

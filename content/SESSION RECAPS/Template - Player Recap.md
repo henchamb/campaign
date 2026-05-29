@@ -1,36 +1,39 @@
 ---
+cssclasses:
+  - session-recap
+  - cartographer
 tags: [recap, player-facing]
 session: 0
-date-irl: ""
+title: "Session N — [Title]"
 date-ingame: ""
+prev: "[[Session N-1]]"
+next: "[[Session N+1]]"
 draft: true
 ---
 
 # Session N — [Title]
 
+> [!nav]
+> Prev: [[Session N-1]] · Next: [[Session N+1]]
+
 > [!info] At a Glance
-> **Where you were:** ...
-> **Where you ended:** ...
-> **In-game date:** ...
+> **In-game:** [date] · **From:** [start] → **To:** [end] · **Level:** [N]
 
-## What Happened
+## [Scene Heading]
 
-*A short, readable summary of the session from the party's perspective. No DM context — only what the players witnessed and did.*
+*Narrative of the session from the party's perspective — what they saw and did, in the order it happened. Give each scene its own evocative heading (see Session 4). Link a named NPC on first mention only, e.g. [[Norm Amberway|Norm]]; leave later mentions plain. Party members stay unlinked.*
 
----
+> [!note] Out-of-Session Note
+> *(Optional — a table/logistics aside, e.g. an off-camera decision. Delete if unused.)*
 
-## NPC Interactions
+## [Scene Heading]
 
-*Notable conversations or encounters with named NPCs.*
-
----
-
-## What You Learned
-
-*New information, discoveries, or revelations from this session.*
+*…add as many scenes as the session needs.*
 
 ---
 
-## Loose Ends Going Into Next Session
+> [!tip]+ Party Prep — Notes for Next Session
+> *Player-facing things to carry into next session — open threads, opportunities, reminders, roleplay hooks. Keep it spoiler-safe; anything DM-only belongs on the Session Hub, not here.*
 
-*Unresolved threads, open questions, or things the party said they'd do.*
+> [!nav]
+> Prev: [[Session N-1]] · Next: [[Session N+1]]

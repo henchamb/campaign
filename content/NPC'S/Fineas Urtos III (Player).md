@@ -1,4 +1,6 @@
 ---
+aliases:
+  - "Fineas Urtos III"
 tags: [npc, player-facing]
 status: alive
 draft: true

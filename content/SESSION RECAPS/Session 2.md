@@ -1,6 +1,7 @@
 ---
 cssclasses:
   - session-recap
+  - cartographer
 tags: [session, recap]
 session: 2
 date-irl: 2026-01-05
@@ -14,7 +15,10 @@ next: "[[Session 3]]"
 # Session 2
 
 > [!nav]
-> [[Dashboard]] · Prev: [[Session 1]] · Next: [[Session 3]]
+> Prev: [[Session 1]] · Next: [[Session 3]]
+
+> [!info] At a Glance
+> **Location:** [[Nightstone]] → [[Ardeep Forest]] (Sharran temple) · **Level:** 1
 
 ## The Aftermath in Nightstone
 
@@ -22,9 +26,9 @@ The session opens with Marok lying unconscious in Jockamo's arms. Pip, not knowi
 
 After rifling through his belongings and stealing a flask of holy water (Esme), the group stands by as Vaama places her hands on the unconscious Marok and heals him back to health. Marok is briefly questioned to no avail, and slips away as soon as he can.
 
-Esme and Jockamo hide from the thugs that come to the butcher shop, while Vaama waits patiently for her turn to speak to the butcher's wife. The wife, Lia, tells Vaama to knock on the side door of the butcher's property and ask for Dawn. Dawn knows of the goblins and offers to show the party to their hideout, but she refuses to aid them in their task of "fully resolving the issue." She mentions her disdain of the Lord's Alliance in her refusal.
+Esme and Jockamo hide from the thugs that come to the butcher shop, while Vaama waits patiently for her turn to speak to the butcher's wife. The wife, Lia, tells Vaama to knock on the side door of the butcher's property and ask for [[Dawn Mistwalker|Dawn]]. Dawn knows of the goblins and offers to show the party to their hideout, but she refuses to aid them in their task of "fully resolving the issue." She mentions her disdain of the [[Lord's Alliance]] in her refusal.
 
-Dawn also turns out to be more than just a hunter. Her main interest is uncovering the hidden secrets left behind by the ancient Moon Elf Society of Ardeep. She does not recall the time when the great elf societies ruled the Sword Coast, but she does recall her friendship with several of the ancient Moon Elves that lingered before their final departure in 1344 DR (150 yrs ago). The Ardeep forest used to span across the sword coast "from the Golden Hills to the Sword Mountains," before recent human logging and agricultural interests (within the last 150 years) decimated the forest to what exists today.
+Dawn also turns out to be more than just a hunter. Her main interest is uncovering the hidden secrets left behind by the ancient Moon Elf Society of Ardeep. She does not recall the time when the great elf societies ruled the Sword Coast, but she does recall her friendship with several of the [[Ancient Moon Elves|ancient Moon Elves]] that lingered before their final departure in 1344 DR (150 yrs ago). The Ardeep forest used to span across the sword coast "from the [[The Golden Hills|Golden Hills]] to the [[Sword Mountains]]," before recent human logging and agricultural interests (within the last 150 years) decimated the forest to what exists today.
 
 ## The Goblin Hideout
 
@@ -51,4 +55,4 @@ Where is Marok during all this? The party has no idea. Little do they know that 
 ---
 
 > [!nav]
-> [[Dashboard]] · Prev: [[Session 1]] · Next: [[Session 3]]
+> Prev: [[Session 1]] · Next: [[Session 3]]

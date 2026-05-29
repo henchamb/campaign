@@ -1,4 +1,6 @@
 ---
+aliases:
+  - "Florfindar Floshin"
 tags: [npc, player-facing]
 status: alive
 draft: true

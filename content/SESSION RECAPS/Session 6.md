@@ -1,6 +1,7 @@
 ---
 cssclasses:
   - session-recap
+  - cartographer
 tags: [session, recap]
 session: 6
 date-irl: 2026-03-23
@@ -15,15 +16,18 @@ hub: "[[Session 6 Hub]]"
 # Session 6
 
 > [!nav]
-> [[Dashboard]] · Prev: [[Session 5]] · Next: [[Session 7]] · Hub: [[Session 6 Hub]]
+> Prev: [[Session 5]] · Next: [[Session 7]]
+
+> [!info] At a Glance
+> **Location:** [[Nightstone]] — [[The Dreaming Boar|Dreaming Boar]], [[Wandering Star Collective|WSC]] camp, main square · **Level:** 2
 
 ## The Morning at the Dreaming Boar
 
-The party awakes on the 19th of Marpenoth at 6am to a clear and brisk morning. They head downstairs for breakfast to find the usual mix of early risers and drunks from the previous night. Norm's wife, Darcy, is busy cooking breakfast. At the corner of the bar is a sleeping Ralli, drooling on the bar top and clutching a half empty bottle of fortified wine. The party finds a table and orders drinks, learning from Norm that the drunk gnome had quite a night last night and wouldn't stop asking about the party. He offers to comp the party's drinks and breakfast if they take Ralli back to her camp.
+The party awakes on the 19th of Marpenoth at 6am to a clear and brisk morning. They head downstairs for breakfast to find the usual mix of early risers and drunks from the previous night. [[Norm Amberway|Norm]]'s wife, Darcy, is busy cooking breakfast. At the corner of the bar is a sleeping [[Ralli Batterton|Ralli]], drooling on the bar top and clutching a half empty bottle of fortified wine. The party finds a table and orders drinks, learning from Norm that the drunk gnome had quite a night last night and wouldn't stop asking about the party. He offers to comp the party's drinks and breakfast if they take Ralli back to her camp.
 
 He also shares some gossip with the party—everyone seems to be packing up and heading north to Waterseep. It seems as though the coming winter and recent events have hastened their departure.
 
-Right before food is served, they are approached by Capt. Armand Grayson, who thanks them for their bravery with the goblin tribe and apologizes for the inconvenience regarding the stolen gold that was to be their payment. After an awkward pause, he finally reveals to the party the real reason he sought them out at the Boar—he is worried about his boss and friend Frieda. He describes her behavior recently as odd and troubling, and tells the party that they may have been the last people to speak to her before she disappeared. The party decides to delay telling the truth to the captain, who takes them at their word and wishes them a good day.
+Right before food is served, they are approached by [[Capt. Armand Grayson]], who thanks them for their bravery with the goblin tribe and apologizes for the inconvenience regarding the stolen gold that was to be their payment. After an awkward pause, he finally reveals to the party the real reason he sought them out at the Boar—he is worried about his boss and friend [[Frieda Greatheart|Frieda]]. He describes her behavior recently as odd and troubling, and tells the party that they may have been the last people to speak to her before she disappeared. The party decides to delay telling the truth to the captain, who takes them at their word and wishes them a good day.
 
 ## The WSC Camp
 
@@ -38,4 +42,4 @@ The party decides to return to Nightstone proper so they can inform Capt. Grayso
 ---
 
 > [!nav]
-> [[Dashboard]] · Prev: [[Session 5]] · Next: [[Session 7]] · Hub: [[Session 6 Hub]]
+> Prev: [[Session 5]] · Next: [[Session 7]]

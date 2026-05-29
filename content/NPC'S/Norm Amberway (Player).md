@@ -1,4 +1,6 @@
 ---
+aliases:
+  - "Norm Amberway"
 tags: [npc, player-facing]
 status: alive
 last-seen: "The Dreaming Boar, Nightstone — Session 9"

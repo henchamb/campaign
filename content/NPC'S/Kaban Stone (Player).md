@@ -1,4 +1,6 @@
 ---
+aliases:
+  - "Kaban Stone"
 tags: [npc, player-facing]
 status: alive
 visible: false

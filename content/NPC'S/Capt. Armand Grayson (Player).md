@@ -1,4 +1,6 @@
 ---
+aliases:
+  - "Capt. Armand Grayson"
 tags: [npc, player-facing]
 status: alive
 last-seen: "Nightstone — Dreaming Boar, Session 6"

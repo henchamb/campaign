@@ -1,4 +1,6 @@
 ---
+aliases:
+  - "Dawn Mistwalker"
 tags: [npc, player-facing]
 status: alive
 last-seen: "Trade Way — said farewell as the party departed with the WSC caravan"
