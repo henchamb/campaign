@@ -36,14 +36,14 @@ They head straight for WSC, finding the camps to be just beginning to stir. [[To
 > [!tip]+ Party Prep — Notes for Next Session
 > Things the players should keep in mind for next session:
 >
-> - -on the road is a good time to catch up on recent significant events in character
+> - on the road is a good time to catch up on recent significant events in character
 > ([[Dawn Mistwalker|Dawn]]/Pip/Regan/Player abilities/etc.), good intra party roleplay opportunity.
 >
-> - -the trade way can be dangerous, in fact rumor has it that its become very dangerous indeed, the party should expect to encounter potential obstacles along the way. While the party has their stated goals, you never know what fate you may encounter while you journey.
+> - the trade way can be dangerous, in fact rumor has it that its become very dangerous indeed, the party should expect to encounter potential obstacles along the way. While the party has their stated goals, you never know what fate you may encounter while you journey.
 >
-> - -Vaama knows this route! She can provide the party (via the DM) with info about the regions
+> - Vaama knows this route! She can provide the party (via the DM) with info about the regions
 >
-> - -the party is leaving what I would kind of call the "starting zone," expect the world to start to feel larger as you encounter new factions, npc's, places, etc.. Good note-taking might become more important.
+> - the party is leaving what I would kind of call the "starting zone," expect the world to start to feel larger as you encounter new factions, npc's, places, etc.. Good note-taking might become more important.
 
 ---
 

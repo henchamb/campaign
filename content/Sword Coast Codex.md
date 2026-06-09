@@ -1,6 +1,6 @@
 ---
 cssclasses:
-  - lore-card
+  - cartographer
 tags: [reference, world-building]
 type: reference
 source: "sword-coast-codex.pdf"
