@@ -7,7 +7,7 @@ last-seen: "Trade Way — said farewell as the party departed with the WSC carav
 ---
 
 # Dawn Mistwalker
-*Wood Elf · Female · 290 years old*
+*Wood Elf · Female*
 
 **Appearance:** 5'7". Blonde hair, tan skin, green eyes. Carries herself with calm authority — the quietness of someone who has survived far longer than anyone around her.
 

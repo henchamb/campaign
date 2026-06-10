@@ -6,7 +6,7 @@ status: deceased
 last-seen: "Temple of the Nightbringers, Ardeep Forest — Session 4"
 ---
 # Frieda Greatheart
-*Half-Orc · Female · Mid 40s*
+*Half-Orc · Female*
 
 **Appearance:** Light green skin, short slender tusks, dark brown eyes, braided dark brown hair. Was the constable of Nightstone.
 

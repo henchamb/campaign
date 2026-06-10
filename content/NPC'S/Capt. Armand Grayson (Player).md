@@ -6,7 +6,7 @@ status: alive
 last-seen: "Nightstone — Dreaming Boar, Session 6"
 ---
 # Capt. Armand Grayson
-*Human · Male · Late 30s*
+*Human · Male*
 
 **Appearance:** 6'2". Short blond hair, stubble, scars. Half-plate armor with captain's adornments. Professional and polite, but direct. Always stands with excellent posture.
 

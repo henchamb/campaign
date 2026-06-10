@@ -6,7 +6,7 @@ status: alive
 last-seen: "WSC caravan, Trade Way toward Waterdeep"
 ---
 # Ralli Batterton
-*Gnome · Female · 70 years old (appears young)*
+*Gnome · Female*
 
 **Appearance:** Dark green hair with an undercut, purple eyes.
 

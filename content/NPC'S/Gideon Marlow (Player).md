@@ -8,7 +8,7 @@ visible: false
 last-seen: "Not yet met — Zundbridge"
 ---
 # Gideon Marlow
-*Human · Male · 40s–50s*
+*Human · Male*
 
 **Appearance:** Dark hair (balding), brown eyes, goatee, thin build, 5'9". Well dressed. Carries himself with the quiet authority of a bureaucrat.
 

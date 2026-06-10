@@ -6,7 +6,7 @@ status: alive
 last-seen: "WSC caravan, Trade Way toward Waterdeep — traveling with the party"
 ---
 # Tom & Len
-*Human · Male · Early 30s (both)*
+*Human · Male*
 
 **Appearance:** Baldurian, both with brown hair and eyes, roughly the same height (~5'10"). Easy to mistake for brothers at a glance.
 

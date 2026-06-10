@@ -9,8 +9,8 @@ last-seen: "Nightstone — Session 7. Joining WSC caravan, Session 10."
 *Human family from Baldur's Gate*
 
 **Appearance:**
-- **Penny** — Red hair, green eyes, female, 40s. Notably short (4'5").
-- **Thomas** — Brown hair and eyes, male, 40s.
+- **Penny** — Red hair, green eyes, female. Notably short (4'5").
+- **Thomas** — Brown hair and eyes, male.
 - **Sierra** — Red hair, curly, green eyes, female, 6 years old.
 
 ## What the Party Knows

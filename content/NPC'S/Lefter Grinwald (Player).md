@@ -7,7 +7,7 @@ visible: false
 last-seen: "Not yet met — Trade Way, heading to Waterdeep"
 ---
 # Lefter Grinwald
-*Dwarf · Male · Appears 60s*
+*Dwarf · Male*
 
 **Appearance:** Short white hair, balding on top. Long white beard gathered with a gold ring. Grey eyes. Almost always smoking a pipe. Travels in an impressively large carriage.
 

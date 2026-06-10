@@ -6,7 +6,7 @@ status: unknown
 last-seen: "Nightstone main square — Session 7"
 ---
 # Archmage Daneel
-*Human · Male · Very old*
+*Human · Male*
 
 **Appearance:** Pale blue eyes. Long white hair and beard. Quick-tempered and deeply curious. Radiates power — do not mistake age for frailty.
 

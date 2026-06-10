@@ -7,7 +7,7 @@ visible: false
 last-seen: "Not yet met — Trade Way, heading to Waterdeep"
 ---
 # Kaban Stone
-*Dwarf · Male · Appears older-middle aged*
+*Dwarf · Male*
 
 **Appearance:** Single braid black hair. Long, polished black-and-silver beard. Dark brown eyes. Compact and deliberate in his movements.
 

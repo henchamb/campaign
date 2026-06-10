@@ -6,7 +6,7 @@ status: alive
 last-seen: "WSC caravan, Trade Way toward Waterdeep"
 ---
 # Enyasil Briarthorn
-*Human · Female · Early 30s*
+*Human · Female*
 
 **Appearance:** 5'6". Red hair, hazel eyes, fair skin. Goes by *Enya*. Plays a unique bellows instrument called the accordion — invented by [[Nelvin Batterton]].
 

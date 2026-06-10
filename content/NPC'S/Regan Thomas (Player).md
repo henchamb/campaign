@@ -6,7 +6,7 @@ status: deceased
 last-seen: "Nightstone garrison, Session 8"
 ---
 # Regan Thomas
-*Human · Male · Late 30s–early 40s*
+*Human · Male*
 
 **Appearance:** Bald. Brown eyes, fair skin, muscular build. Scars on his head, neck, and arms. Battle-hardened — it shows.
 

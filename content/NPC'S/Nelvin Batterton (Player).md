@@ -6,7 +6,7 @@ status: alive
 last-seen: "WSC caravan, Trade Way toward Waterdeep"
 ---
 # Nelvin Batterton
-*Gnome · Male · 120 years old*
+*Gnome · Male*
 
 **Appearance:** Slightly darker green hair than his sister Ralli, green/blue eyes. Gruff and abrupt — always seems like his mind is somewhere else entirely.
 

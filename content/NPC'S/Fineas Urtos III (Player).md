@@ -8,7 +8,7 @@ visible: false
 last-seen: "Not yet met"
 ---
 # Fineas Urtos III
-*Human · Male · Late 20s–early 30s*
+*Human · Male*
 
 **Appearance:** Short blonde hair, constant stubble, grey/green eyes. Relaxed and easy to underestimate.
 
