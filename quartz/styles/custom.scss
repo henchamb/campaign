@@ -1,3 +1,123 @@
 @use "./base.scss";
 
-// put your custom CSS here!
+// =====================================================================
+// Cartographer — pass A for the published party site.
+// Palette + typography live in quartz.config.ts; this layer adds the
+// parchment surface and the Cartographer callout language for the
+// callout types that actually appear in PARTY FACING content
+// (nav, info, note, tip, flavor, whisper).
+// =====================================================================
+
+// ---- parchment grain (same turbulence-noise technique as the vault snippet)
+body::before {
+  content: "";
+  position: fixed;
+  inset: 0;
+  z-index: -1;
+  pointer-events: none;
+  opacity: 0.5;
+  mix-blend-mode: multiply;
+  background-image: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='280' height='280'><filter id='n'><feTurbulence type='fractalNoise' baseFrequency='0.85' numOctaves='2' stitchTiles='stitch' seed='5'/><feColorMatrix values='0 0 0 0 0.45  0 0 0 0 0.36  0 0 0 0 0.17  0 0 0 0.55 0'/></filter><rect width='100%25' height='100%25' filter='url(%23n)'/></svg>");
+}
+[saved-theme="dark"] body::before {
+  opacity: 0.18;
+}
+
+// ---- headings: accent rule under the page title, quiet rules under sections
+.article-title::after {
+  content: "";
+  display: block;
+  height: 2px;
+  margin-top: 0.4rem;
+  background: linear-gradient(90deg, var(--secondary), transparent 70%);
+}
+article h2 {
+  border-bottom: 1px solid var(--lightgray);
+  padding-bottom: 0.15rem;
+}
+
+// ---- callout base: parchment substrate, left-edge signal
+.callout {
+  border: 1px solid var(--lightgray);
+  border-left: 3px solid var(--color, var(--secondary));
+  border-radius: 3px;
+  background: rgba(255, 252, 240, 0.55);
+}
+[saved-theme="dark"] .callout {
+  background: rgba(20, 17, 10, 0.35);
+}
+.callout-title {
+  letter-spacing: 0.04em;
+}
+
+// signal colors (mirroring the vault's callout palette)
+.callout[data-callout="info"] {
+  --color: #2d4a6b;
+  --border: #2d4a6b44;
+  --bg: #2d4a6b10;
+}
+.callout[data-callout="note"] {
+  --color: #8a7f63;
+  --border: #8a7f6344;
+  --bg: #8a7f6310;
+}
+.callout[data-callout="tip"] {
+  --color: #4a6b56;
+  --border: #4a6b5644;
+  --bg: #4a6b5610;
+}
+
+// flavor = read-aloud: boxed, italic, cool
+.callout[data-callout="flavor"] {
+  --color: #4a5a6e;
+  --border: #4a5a6e44;
+  --bg: #4a5a6e0e;
+  .callout-content {
+    font-style: italic;
+  }
+}
+
+// whisper = rumor/hearsay: soft, italic, recessive
+.callout[data-callout="whisper"] {
+  --color: #6a6275;
+  --border: #6a627544;
+  --bg: #6a62750c;
+  .callout-content {
+    font-style: italic;
+    opacity: 0.88;
+  }
+}
+
+// nav = the pill link-strip (in Obsidian this is chrome, not a box)
+.callout[data-callout="nav"] {
+  border: none;
+  background: transparent;
+  padding: 0;
+
+  .callout-title {
+    display: none;
+  }
+  .callout-content {
+    text-align: center;
+
+    p {
+      margin: 0.2rem 0;
+    }
+    a {
+      display: inline-block;
+      padding: 0.12rem 0.75rem;
+      margin: 0.15rem 0.1rem;
+      border: 1px solid var(--lightgray);
+      border-radius: 999px;
+      background: rgba(255, 252, 240, 0.6);
+      text-decoration: none;
+      font-size: 0.92em;
+    }
+    a:hover {
+      border-color: var(--secondary);
+    }
+  }
+}
+[saved-theme="dark"] .callout[data-callout="nav"] .callout-content a {
+  background: rgba(20, 17, 10, 0.4);
+}
